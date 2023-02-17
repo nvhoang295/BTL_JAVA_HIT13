@@ -1,0 +1,10 @@
+1|To Kill a Mockingbird|Harper Lee|Tình cảm|Tốt|7|40000
+2|1984|George Orwell|Hài hước|Tốt|12|45000
+3|The Catcher in the Rye|J.D. Salinger|Viễn tưởng|Tốt|19|35000
+4|The Great Gatsby|F. Scott Fitzgerald|Khoa học|Tốt|20|55000
+5|Pride and Prejudice|Jane Austen|Kinh dị|Tốt|30|60000
+6|The Grapes of Wrath|John Steinbeck|Lịch sử|Tốt|4|70000
+7|Of Mice and Men|John Steinbeck|Trinh thám|Tốt|15|75000
+8|The Old Man and the Sea|Ernest Hemingway|Phiêu lưu|Tốt|40|55000
+9|Brave New World|Aldous Huxley|Kịch|Tốt|16|40000
+10|Slaughterhouse-Five|Kurt Vonnegut|Kịch|Tốt|31|35000
